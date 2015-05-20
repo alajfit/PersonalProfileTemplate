@@ -1,0 +1,17 @@
+{
+    "name": "Personal-Profile-Template",
+    "version": "1.0.0",
+    "dependencies": {
+        "semantic-ui": "latest",
+        "angular": "latest",
+        "jquery": "latest",
+        "qunit": "latest",
+        "animate.css": "latest"
+    },
+    "install": {
+        "path": {
+            "css": "stylesheets",
+            "js": "javascripts"
+        }
+    }
+}
